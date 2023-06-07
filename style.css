@@ -39,3 +39,7 @@ a {
 	margin-right: 10px;
 	height: 25px;
 }
+
+body.dark-reader img {
+	filter: brightness(0) invert(1);
+}
